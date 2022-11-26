@@ -1,0 +1,20 @@
+.select
+{
+    width: 300px;
+    margin-left: 50px;
+    background-color: aquamarine;
+    margin-top: 50px;
+}
+h1
+{
+    font-weight: bold;
+    font-size: 45px;
+}
+.button
+{
+    margin-top: 150px;
+    border: 2px solid black;
+    width: 700px;
+    height: 200px;
+    border-radius: 15px;
+}
